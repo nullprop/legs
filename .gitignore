@@ -1,0 +1,11 @@
+subprojects/**/*
+!subprojects/*.wrap
+
+.cache/
+
+lib/
+
+include/steamworks
+
+imgui.ini
+

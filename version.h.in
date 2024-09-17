@@ -1,0 +1,4 @@
+#pragma once
+
+#define LEGS_VERSION "@VCS_TAG@"
+

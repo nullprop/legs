@@ -1,0 +1,6 @@
+option(
+  'examples',
+  description: 'Should the examples be built?',
+  type: 'boolean',
+  value: false
+)

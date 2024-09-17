@@ -1,0 +1,15 @@
+[submodule "include/imgui"]
+	path = include/imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "include/glm"]
+	path = include/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "include/VulkanMemoryAllocator"]
+	path = include/VulkanMemoryAllocator
+	url = https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator.git
+[submodule "include/PerlinNoise"]
+	path = include/PerlinNoise
+	url = https://github.com/Reputeless/PerlinNoise.git
+[submodule "include/JoltPhysics"]
+	path = include/JoltPhysics
+	url = https://github.com/jrouwe/JoltPhysics.git
